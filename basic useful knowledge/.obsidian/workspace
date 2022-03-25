@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5d215abd0b5e2bba",
+    "type": "split",
+    "children": [
+      {
+        "id": "9209777d5bd802c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "console utilites/tmux/basic commands.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fd0da6f3d0d85e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c517233553be7e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76d4e7fab43fcb60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "41a5a17674b7c372",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c02476603963441",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b1949a9976a1086",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f0c9420f6429553",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "console utilites/tmux/basic commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9209777d5bd802c5",
+  "lastOpenFiles": [
+    "console utilites/tmux/basic commands.md",
+    "console utilites/htop/basic commands.md",
+    "console utilites/vim/config.md",
+    "console utilites/vim/basic commands.md",
+    "console utilites/tmux/config.md",
+    "требуется разобрать/linux/commands.md",
+    "требуется разобрать/linux/basic.md",
+    "требуется разобрать/git/basic.md",
+    "требуется разобрать/docker/example dockerfile.md",
+    "требуется разобрать/docker/commands.md"
+  ]
+}
