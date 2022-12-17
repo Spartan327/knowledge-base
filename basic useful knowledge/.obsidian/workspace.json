@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9209777d5bd802c5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "требуется разобрать/docker/commands.md",
-            "mode": "source",
-            "source": false
+        "id": "6b4953398c1f2e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9209777d5bd802c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "требуется разобрать/docker/commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -90,14 +98,14 @@
   "active": "9209777d5bd802c5",
   "lastOpenFiles": [
     "требуется разобрать/docker/example dockerfile.md",
-    "требуется разобрать/docker/commands.md",
-    "console utilites/vim/basic commands.md",
-    "console utilites/tmux/basic commands.md",
-    "console utilites/tmux/config.md",
-    "console utilites/vim/config.md",
     "git/basic commands.md",
-    "console utilites/передача файлов между серверами/nc.md",
+    "console utilites/tmux/config.md",
+    "console utilites/tmux/basic commands.md",
+    "console utilites/htop/basic commands.md",
+    "console utilites/vim/config.md",
+    "console utilites/vim/basic commands.md",
     "console utilites/передача файлов между серверами/scp.md",
-    "требуется разобрать/linux/useful commands.md"
+    "console utilites/передача файлов между серверами/nc.md",
+    "требуется разобрать/sql/view.md"
   ]
 }

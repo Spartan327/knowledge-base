@@ -1,6 +1,7 @@
 {
   "baseFontSize": 16,
   "theme": "obsidian",
-  "cssTheme": "Atom",
-  "translucency": false
+  "cssTheme": "Things",
+  "translucency": false,
+  "accentColor": "#824ce6"
 }
